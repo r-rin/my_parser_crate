@@ -2,7 +2,7 @@
 
 My first test of pag cargo
 
-![text](image.png)
+![text](image.jpg)
 
 ### Example
 
